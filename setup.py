@@ -1,3 +1,7 @@
+# added first comment in setup.py file working on my_branch branch
+# added 2nd comment
+
+
 #! /usr/bin/env python
 #
 # Copyright (C) 2007-2009 Cournapeau David <cournape@gmail.com>
